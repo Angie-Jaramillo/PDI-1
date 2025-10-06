@@ -1,6 +1,7 @@
 # BRICK BREAKER 
 
-## Video de funcionamiento: https://udeaeduco-my.sharepoint.com/:v:/g/personal/apaola_jaramillo_udea_edu_co/EavdTDWr6PxHjDdAl13Z7rwBI5bijDrH0gmVn-12nOxMQA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uNA3mu
+## Video de funcionamiento: 
+https://udeaeduco-my.sharepoint.com/:v:/g/personal/apaola_jaramillo_udea_edu_co/EavdTDWr6PxHjDdAl13Z7rwBI5bijDrH0gmVn-12nOxMQA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uNA3mu
 
 ## Instrucciones de uso
 
